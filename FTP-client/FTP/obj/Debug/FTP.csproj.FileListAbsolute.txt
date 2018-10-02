@@ -1,0 +1,32 @@
+C:\Users\dreni\Desktop\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\dreni\Desktop\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\dreni\Desktop\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\dreni\Desktop\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\dreni\Desktop\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\dreni\Desktop\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\dreni\Desktop\Riinvest\Rrjeta kompjuterike\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\dreni\Desktop\Riinvest\Rrjeta kompjuterike\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\dreni\Desktop\Riinvest\Rrjeta kompjuterike\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\dreni\Desktop\Riinvest\Rrjeta kompjuterike\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\dreni\Desktop\Riinvest\Rrjeta kompjuterike\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\dreni\Desktop\Sisteme t'shperndara\Rrjeta-Kompjuterike-Projekti\Rrjeta Kompjuterike - Projekti\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\dreni\Desktop\FTP\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\dreni\Desktop\FTP\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\dreni\Desktop\FTP\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\dreni\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\dreni\Desktop\FTP\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\dreni\Desktop\FTP\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\dreni\Desktop\FTP\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\obj\Debug\FTP.csprojAssemblyReference.cache
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\jasha\Desktop\Uni\Rrjeta\FTP-Faza1\FTP\FTP\obj\Debug\FTP.pdb
